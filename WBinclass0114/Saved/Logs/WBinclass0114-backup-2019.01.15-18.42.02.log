@@ -1,0 +1,1497 @@
+﻿Log file open, 01/14/19 13:37:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: WBinclass0114
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278290
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.091s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Yuqi77" -epicuserid=f6c5837811cc4d8baf5f977bb8912a4a -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.14-20.37.24:914][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-20.37.24:914][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.14-20.37.24:925][  0]LogHAL: Display: Platform has ~ 16 GB [17094942720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.14-20.37.24:925][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.14-20.37.24:925][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.14-20.37.24:925][  0]LogInit: Computer: eae-n-005
+[2019.01.14-20.37.24:925][  0]LogInit: User: u1128431
+[2019.01.14-20.37.24:925][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.14-20.37.24:925][  0]LogInit: High frequency timer resolution =3.023439 MHz
+[2019.01.14-20.37.24:925][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.14-20.37.24:925][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.14-20.37.24:925][  0]LogMemory: Process Physical Memory: 100.47 MB used, 100.47 MB peak
+[2019.01.14-20.37.24:925][  0]LogMemory: Process Virtual Memory: 89.31 MB used, 89.31 MB peak
+[2019.01.14-20.37.24:925][  0]LogMemory: Physical Memory: 5523.63 MB used,  10779.38 MB free, 16303.01 MB total
+[2019.01.14-20.37.24:925][  0]LogMemory: Virtual Memory: 4639.15 MB used,  10779.38 MB free, 134217728.00 MB total
+[2019.01.14-20.37.24:938][  0]LogInit: Using OS detected language (en-US).
+[2019.01.14-20.37.24:938][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.14-20.37.24:939][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.14-20.37.25:270][  0]LogStreaming: Display: Took  0.332s to InitEngineTextLocalization.
+[2019.01.14-20.37.25:270][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.14-20.37.25:311][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.14-20.37.25:311][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.14-20.37.25:481][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-20.37.25:481][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.14-20.37.25:511][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2019.01.14-20.37.25:511][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.01.14-20.37.25:523][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.14-20.37.25:523][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.14-20.37.25:524][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.14-20.37.25:524][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.14-20.37.25:524][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.14-20.37.25:531][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.14-20.37.25:531][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2019.01.14-20.37.25:531][  0]LogWindows: EnumDisplayDevices:
+[2019.01.14-20.37.25:531][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2019.01.14-20.37.25:532][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:532][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:532][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:532][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:533][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:533][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.01.14-20.37.25:533][  0]LogWindows:    7. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.14-20.37.25:533][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.14-20.37.25:533][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:7 
+[2019.01.14-20.37.25:533][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2019.01.14-20.37.25:533][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.9.1 (internal:24.20.11026.2001, unified:24.20.11026.2001)
+[2019.01.14-20.37.25:533][  0]LogD3D11RHI:      Driver Date: 8-30-2018
+[2019.01.14-20.37.25:533][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.01.14-20.37.25:595][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.14-20.37.25:606][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.01.14-20.37.25:608][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Intermediate/Shaders/WorkingDirectory/8744/).
+[2019.01.14-20.37.25:609][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1128431/AppData/Local/Temp/UnrealShaderWorkingDir/0B0C841946ECEEA1B959B3954C3261F5/'.
+[2019.01.14-20.37.25:845][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.14-20.37.25:856][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.14-20.37.25:867][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.14-20.37.25:878][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.14-20.37.25:889][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.14-20.37.25:901][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.14-20.37.25:913][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.14-20.37.25:926][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.14-20.37.25:931][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:996][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-20.37.25:997][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.14-20.37.26:052][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.14-20.37.26:052][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.14-20.37.26:071][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.14-20.37.26:071][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.14-20.37.26:081][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.14-20.37.26:091][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.14-20.37.26:102][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.14-20.37.26:112][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.14-20.37.26:120][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.14-20.37.26:120][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.14-20.37.26:178][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.14-20.37.26:179][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.14-20.37.26:179][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.14-20.37.26:797][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/u1128431/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1128431/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.14-20.37.26:855][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.14-20.37.26:866][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.14-20.37.26:878][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1128431/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.14-20.37.26:878][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.14-20.37.26:878][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.14-20.37.26:893][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.14-20.37.26:894][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.14-20.37.26:895][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.14-20.37.26:960][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2019.01.14-20.37.27:247][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-20.37.27:384][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.14-20.37.27:388][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.14-20.37.27:388][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.14-20.37.27:388][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.14-20.37.27:388][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.14-20.37.27:401][  0]LogNetVersion: WBinclass0114 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3744271463)
+[2019.01.14-20.37.27:861][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.083316 seconds
+[2019.01.14-20.37.27:866][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.14-20.37.27:866][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.14-20.37.27:866][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.14-20.37.28:626][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.14-20.37.28:651][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.14-20.37.28:778][  0]SourceControl: Source control is disabled
+[2019.01.14-20.37.28:778][  0]SourceControl: Source control is disabled
+[2019.01.14-20.37.28:779][  0]SourceControl: Source control is disabled
+[2019.01.14-20.37.28:780][  0]SourceControl: Source control is disabled
+[2019.01.14-20.37.28:930][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.14-20.37.28:999][  0]LogOcInput: OculusInput pre-init called
+[2019.01.14-20.37.29:051][  0]LogEngine: Initializing Engine...
+[2019.01.14-20.37.29:051][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-20.37.29:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.14-20.37.29:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-20.37.29:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.14-20.37.29:053][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-20.37.29:232][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.14-20.37.29:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.14-20.37.29:272][  0]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-20.37.29:297][  0]LogInit: FAudioDevice initialized.
+[2019.01.14-20.37.29:297][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.14-20.37.29:378][  0]LogDerivedDataCache: Saved boot cache 0.08s 87MB C:/Users/u1128431/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.14-20.37.29:391][  0]LogInit: Texture streaming: Enabled
+[2019.01.14-20.37.29:406][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.14-20.37.29:422][  0]LogInit: Transaction tracking system initialized
+[2019.01.14-20.37.29:443][  0]BlueprintLog: New page: Editor Load
+[2019.01.14-20.37.29:590][  0]LocalizationService: Localization service is disabled
+[2019.01.14-20.37.29:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/' took 0.01s
+[2019.01.14-20.37.29:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.14-20.37.29:814][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.14-20.37.29:814][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.14-20.37.29:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.14-20.37.29:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-20.37.29:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.14-20.37.29:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-20.37.29:936][  0]SourceControl: Source control is disabled
+[2019.01.14-20.37.29:936][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-20.37.29:937][  0]LightingResults: New page: Lighting Build
+[2019.01.14-20.37.29:939][  0]MapCheck: New page: Map Check
+[2019.01.14-20.37.29:939][  0]LightingResults: New page: Lighting Build
+[2019.01.14-20.37.30:111][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.14-20.37.30:118][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-20.37.30:138][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-20.37.30:194][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.622ms to complete.
+[2019.01.14-20.37.30:194][  0]LogFileHelpers: Loading map 'Template_Default' took 0.257
+[2019.01.14-20.37.30:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-20.37.30:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-20.37.30:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-20.37.30:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-20.37.30:342][  0]LogCollectionManager: Loaded 0 collections in 0.001871 seconds
+[2019.01.14-20.37.30:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Collections/' took 0.01s
+[2019.01.14-20.37.30:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/Developers/u1128431/Collections/' took 0.01s
+[2019.01.14-20.37.30:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/Collections/' took 0.01s
+[2019.01.14-20.37.30:383][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.14-20.37.30:391][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2572 classes and 603 folders.
+[2019.01.14-20.37.30:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.14-20.37.30:733][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.14-20.37.30:738][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.14-20.37.30:752][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.14-20.37.30:754][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.14-20.37.30:767][  0]LogSlate: Took 0.007124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.14-20.37.30:858][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.14-20.37.31:126][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.37.31:140][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.14-20.37.31:172][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.14-20.37.31:173][  0]LogLoad: (Engine Initialization) Total time: 8.04 seconds
+[2019.01.14-20.37.31:173][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.14-20.37.31:184][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-20.37.31:208][  0]LogAssetRegistry: Asset discovery search completed in 4.2705 seconds
+[2019.01.14-20.37.31:209][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.14-20.37.31:209][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.01.14-20.37.31:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-20.37.39:046][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.38.49:148][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.38.56:543][193]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2019.01.14-20.38.58:326][400]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.14-20.39.00:413][644]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.14-20.39.07:917][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.39.54:660][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.40.13:545][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.40.14:211][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-20.40.19:757][911]Cmd: EDIT CUT
+[2019.01.14-20.40.19:761][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.14-20.40.19:781][911]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.14-20.40.21:471][114]Cmd: TRANSACTION UNDO
+[2019.01.14-20.40.21:471][114]LogEditorTransaction: Undo Cut
+[2019.01.14-20.40.21:493][114]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.14-20.40.21:966][166]Cmd: TRANSACTION UNDO
+[2019.01.14-20.40.21:966][166]LogEditorTransaction: Undo Move Actors
+[2019.01.14-20.40.23:295][309]Cmd: TRANSACTION UNDO
+[2019.01.14-20.40.23:295][309]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.40.24:045][389]Cmd: TRANSACTION UNDO
+[2019.01.14-20.40.24:046][389]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.40.26:457][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.40.49:441][199]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.41.03:115][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-20.41.12:191][869]Cmd: DELETE
+[2019.01.14-20.41.12:191][869]Cmd: ACTOR DELETE
+[2019.01.14-20.41.12:192][869]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.41.12:212][869]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.14-20.41.14:956][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.41.16:651][396]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.41.20:336][822]Cmd: DELETE
+[2019.01.14-20.41.20:336][822]Cmd: ACTOR DELETE
+[2019.01.14-20.41.20:338][822]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.41.20:357][822]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.14-20.43.12:787][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.43.32:657][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.43.49:248][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.44.00:627][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-20.44.03:240][162]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.03:240][162]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.04:230][276]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.04:230][276]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.04:808][337]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.04:808][337]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.05:149][374]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.05:149][374]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.05:702][435]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.05:702][435]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.06:400][512]Cmd: TRANSACTION UNDO
+[2019.01.14-20.44.06:400][512]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-20.44.10:485][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-20.44.11:487][ 76]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.01.14-20.44.13:243][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-20.44.14:801][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-20.44.29:060][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.44.34:679][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-20.44.36:991][104]Cmd: DELETE
+[2019.01.14-20.44.36:991][104]Cmd: ACTOR DELETE
+[2019.01.14-20.44.36:992][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.14-20.44.37:013][104]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.14-20.44.51:685][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.44.52:516][958]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.45.55:379][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.45.59:063][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.46.12:481][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.46.35:570][833]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2019.01.14-20.46.35:573][833]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.14-20.46.35:844][833]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.14-20.46.35:856][833]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.46.35:856][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.46.35:856][833]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.46.35:856][833]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.46.35:900][833]LogSlate: Took 0.005727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.14-20.46.36:421][859]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.46.36:478][863]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.46.36:482][863]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.46.36:494][864]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.46.36:610][871]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.46.36:643][873]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.46.36:654][874]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.46.36:670][875]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.46.36:780][882]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.46.36:940][891]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.46.37:052][898]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.46.37:089][900]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.46.37:166][905]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.46.37:284][912]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.46.37:352][916]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.46.37:516][926]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.46.37:537][927]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.46.37:856][950]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-20.46.37:856][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-20.46.37:856][950]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.46.37:856][950]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.46.38:839][ 40]LogSlate: Window 'NewMaterial*' being destroyed
+[2019.01.14-20.46.38:842][ 40]LogSlate: Window 'NewMaterial*' being destroyed
+[2019.01.14-20.46.39:597][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.47.22:102][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_WBox_Yuqi" FILE="../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/M_WBox_Yuqi.uasset" SILENT=true
+[2019.01.14-20.47.22:131][633]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/M_WBox_Yuqi4AD990DB4A785DA38FE88BBA2E8DE6A3.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/M_WBox_Yuqi.uasset'
+[2019.01.14-20.47.42:917][567]LogAssetEditorManager: Opening Asset editor for Material /Game/M_WBox_Yuqi.M_WBox_Yuqi
+[2019.01.14-20.47.42:919][567]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.47.42:999][567]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.47.43:011][567]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.47.43:011][567]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.47.43:011][567]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.47.43:011][567]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.47.43:011][567]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.47.43:568][594]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.47.43:599][596]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.47.43:612][597]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.47.43:612][597]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.47.43:791][609]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.47.43:802][610]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.47.43:844][614]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.47.43:846][614]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.47.43:974][624]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.47.43:983][625]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.47.43:995][626]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.47.44:007][627]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.47.44:131][637]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.47.44:251][646]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.47.44:368][655]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.47.44:408][658]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.47.44:513][666]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.47.44:613][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.47.44:639][676]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.47.44:799][688]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.47.44:864][693]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.47.45:162][718]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-20.47.45:162][718]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-20.47.45:162][718]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.47.45:162][718]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.49.04:224][ 40]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.49.04:236][ 40]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.49.04:274][ 41]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-20.49.04:274][ 41]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-20.49.04:274][ 41]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.49.04:274][ 41]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.49.04:280][ 41]LogSlate: Took 0.004167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.14-20.49.04:802][ 89]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.49.04:837][ 92]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.49.04:847][ 93]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.49.04:847][ 93]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.49.04:963][102]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.49.04:996][105]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.49.05:008][106]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.49.05:031][108]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.49.05:116][115]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.49.05:255][125]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.49.05:399][136]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.49.05:434][139]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.49.05:487][143]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.49.05:631][154]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.49.05:646][155]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.49.05:829][169]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.49.05:890][174]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.49.05:927][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.49.06:000][183]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.49.06:234][200]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-20.49.06:234][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-20.49.06:234][200]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.49.06:234][200]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.49.37:954][832]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Untitled_1_Auto1F46696B54411116473D4B7847F85B7DC.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.01.14-20.49.37:957][832]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.046
+[2019.01.14-20.49.37:957][832]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.046
+[2019.01.14-20.50.31:220][175]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.31:236][175]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.31:236][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.31:236][175]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.31:236][175]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.31:236][175]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.31:796][216]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.31:835][219]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.31:850][220]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.50.31:850][220]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.50.31:960][228]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.50.32:000][230]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.50.32:008][230]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.50.32:008][230]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.32:025][230]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.32:025][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.32:109][235]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-20.50.32:262][245]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.32:342][251]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.32:353][252]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.32:408][256]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.32:491][262]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.50.32:533][265]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.50.32:535][265]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.50.32:562][267]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.50.32:643][273]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.50.32:657][274]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.50.32:701][277]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.50.32:904][290]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.50.32:936][292]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.50.33:066][302]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.50.33:100][304]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.50.33:183][310]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.50.33:305][318]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.50.33:434][327]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.50.33:519][333]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.50.33:562][336]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.50.33:671][343]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.50.33:848][355]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-20.50.33:848][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-20.50.33:848][355]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.50.33:848][355]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.50.37:132][616]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.37:149][616]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.37:164][616]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.37:164][616]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.37:164][616]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.37:164][616]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.37:225][621]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.37:243][621]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.37:269][621]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.14-20.50.37:364][627]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-20.50.37:387][629]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-20.50.37:400][630]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.37:400][630]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.37:579][643]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.37:588][644]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.37:609][646]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.50.37:617][647]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.50.37:746][657]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.50.37:757][658]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.50.37:767][659]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.50.37:780][660]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.50.37:919][671]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.50.38:030][678]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.50.38:164][687]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.50.38:195][688]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.50.38:304][697]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.50.38:425][706]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.50.38:440][707]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.50.38:608][720]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.50.38:689][726]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.50.38:757][732]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.50.38:797][735]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.50.38:995][749]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-20.50.38:995][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-20.50.38:995][749]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.50.38:995][749]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.50.51:654][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.50.52:480][921]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.52:495][921]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.52:495][921]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.52:495][921]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.52:495][921]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.52:497][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.52:711][935]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.52:724][935]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.52:736][935]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.50.52:746][937]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.50.52:882][947]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.50.52:895][948]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.50.52:905][949]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.50.52:916][950]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.50.53:023][958]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.50.53:156][966]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.50.53:299][977]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.50.53:338][980]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.50.53:417][986]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.50.53:532][995]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.50.53:584][999]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.50.53:763][ 12]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.50.53:790][ 14]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.50.53:883][ 22]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.50.53:954][ 27]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.50.54:150][ 42]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.14-20.50.54:150][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.14-20.50.54:150][ 42]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.50.54:150][ 42]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.50.58:110][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.50.58:844][477]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.50.58:858][477]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.50.58:858][477]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.50.58:858][477]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.58:858][477]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.58:861][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.50.59:097][494]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.50.59:124][495]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.50.59:128][495]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.50.59:135][496]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.50.59:246][505]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.50.59:285][508]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.50.59:298][509]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.50.59:312][510]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.50.59:403][517]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.50.59:537][526]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.50.59:697][537]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.50.59:745][540]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.50.59:797][544]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.50.59:937][555]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.50.59:951][556]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.51.00:204][574]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.51.00:217][575]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.51.00:263][579]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.51.00:332][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.51.00:589][604]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.01.14-20.51.00:589][604]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.01.14-20.51.00:589][604]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.51.00:589][604]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.51.02:168][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.51.05:855][138]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.05:876][139]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.05:876][139]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.05:876][139]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.05:876][139]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.06:103][156]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.51.06:129][158]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.51.06:130][158]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.51.06:142][159]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.51.06:281][169]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.51.06:293][170]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.51.06:320][172]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.51.06:322][172]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.51.06:424][180]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.51.06:587][191]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.51.06:681][197]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.51.06:731][202]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.51.06:778][205]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.51.06:914][216]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.51.06:982][221]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.51.07:146][234]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.51.07:159][235]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.51.10:843][659]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.01.14-20.51.10:843][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.01.14-20.51.10:843][659]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.51.10:843][659]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.51.12:551][806]LogEditorTransaction: Undo Create Pin Link
+[2019.01.14-20.51.12:566][806]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.12:617][807]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.12:617][807]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.12:617][807]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.12:617][807]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.12:803][818]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.51.12:828][819]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.51.12:847][820]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.51.12:847][820]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.51.12:945][825]LogEditorTransaction: Undo Create Pin Link
+[2019.01.14-20.51.12:950][825]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.12:981][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.12:981][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.12:981][825]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.12:983][825]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.13:041][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.13:200][836]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.13:213][837]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.13:215][837]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.13:229][838]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.51.13:366][847]LogEditorTransaction: Undo Create Pin Link
+[2019.01.14-20.51.13:377][847]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.13:408][847]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.13:408][847]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.13:410][847]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.13:422][847]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.13:427][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.51.13:443][847]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.13:632][857]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.13:644][858]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.13:655][859]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.13:659][859]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.13:753][866]LogEditorTransaction: Undo Create Pin Link
+[2019.01.14-20.51.13:769][866]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.13:798][866]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-20.51.13:801][866]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.13:823][866]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.13:823][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.51.13:838][866]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-20.51.13:889][867]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.14:046][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.14:059][879]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.14:069][880]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.14:108][883]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.51.14:205][890]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.51.14:234][892]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.51.14:236][892]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.51.14:284][896]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.51.14:326][899]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.51.14:409][905]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.51.14:585][914]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.51.14:651][919]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.51.14:716][924]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.51.14:813][930]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.51.14:908][937]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.51.14:991][943]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.51.15:117][951]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.51.15:156][954]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.51.15:258][961]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.51.15:338][966]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.51.16:424][ 87]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.16:441][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-20.51.16:457][ 87]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.16:457][ 87]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.16:457][ 87]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.16:457][ 87]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.16:915][119]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.16:948][122]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.16:950][122]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-20.51.16:958][123]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-20.51.17:064][131]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-20.51.17:100][134]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-20.51.17:111][135]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-20.51.17:131][137]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.51.17:231][145]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-20.51.17:377][155]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-20.51.17:496][164]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-20.51.17:534][167]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-20.51.17:616][173]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-20.51.17:735][181]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-20.51.17:777][184]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-20.51.17:925][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-20.51.17:971][198]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-20.51.18:043][205]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.51.18:127][213]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.51.19:026][316]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.14-20.51.19:026][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.14-20.51.19:026][316]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-20.51.19:026][316]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-20.51.27:484][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.51.51:438][286]LogMaterialEditor: Saving and Compiling material M_WBox_Yuqi
+[2019.01.14-20.51.51:889][286]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.51:935][286]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-20.51.51:935][286]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-20.51.51:935][286]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-20.51.51:935][286]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-20.51.51:943][286]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.51:957][286]LogMaterial: Display: Missing cached shader map for material M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.51:997][286]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WBox_Yuqi, compiling. 
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-20.51.53:470][286]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-20.51.53:472][286]TextureStreamingBuild: Display: Compiling optional shaders took 1.483 seconds.
+[2019.01.14-20.51.53:505][286]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-20.51.55:580][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_WBox_Yuqi" FILE="../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/M_WBox_Yuqi.uasset" SILENT=true
+[2019.01.14-20.51.55:606][286]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/M_WBox_Yuqi3B8A6DBE4313F7EB23B74392692ABC2E.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/M_WBox_Yuqi.uasset'
+[2019.01.14-20.52.44:979][343]LogSlate: Window 'M_WBox_Yuqi' being destroyed
+[2019.01.14-20.54.16:164][523]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/MI_WBoxStreet_Yuqi.MI_WBoxStreet_Yuqi
+[2019.01.14-20.54.27:634][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.55.18:970][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.55.19:144][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_WBoxStreet_Yuqi" FILE="../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/MI_WBoxStreet_Yuqi.uasset" SILENT=true
+[2019.01.14-20.55.19:166][ 18]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WBoxStreet_Yuqi, compiling. 
+[2019.01.14-20.55.19:587][ 18]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-20.55.19:588][ 18]TextureStreamingBuild: Display: Compiling optional shaders took 0.425 seconds.
+[2019.01.14-20.55.19:619][ 18]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/MI_WBoxStreet_YuqiC38BF2E645862DD322F926B77E3647BA.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/MI_WBoxStreet_Yuqi.uasset'
+[2019.01.14-20.55.27:323][754]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.14-20.55.27:326][754]LogSlate: Window 'MI_WBoxStreet_Yuqi' being destroyed
+[2019.01.14-20.55.27:329][754]LogSlate: Window 'MI_WBoxStreet_Yuqi' being destroyed
+[2019.01.14-20.55.50:874][730]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.55.55:507][275]Cmd: DELETE
+[2019.01.14-20.55.55:507][275]Cmd: ACTOR DELETE
+[2019.01.14-20.55.55:509][275]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.55.55:532][275]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.14-20.55.57:854][547]Cmd: DELETE
+[2019.01.14-20.55.57:854][547]Cmd: ACTOR DELETE
+[2019.01.14-20.55.57:855][547]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.55.57:875][547]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.14-20.56.04:075][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.56.04:379][323]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.56.35:766][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.57.41:180][890]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.57.47:892][679]Cmd: DELETE
+[2019.01.14-20.57.47:892][679]Cmd: ACTOR DELETE
+[2019.01.14-20.57.47:894][679]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.57.47:915][679]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.14-20.57.50:016][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.58.01:135][138]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.58.02:801][329]Cmd: DELETE
+[2019.01.14-20.58.02:801][329]Cmd: ACTOR DELETE
+[2019.01.14-20.58.02:803][329]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.58.02:824][329]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.14-20.58.20:647][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.58.22:102][624]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-20.58.23:732][811]Cmd: DELETE
+[2019.01.14-20.58.23:732][811]Cmd: ACTOR DELETE
+[2019.01.14-20.58.23:734][811]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-20.58.23:756][811]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.01.14-20.58.29:075][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.58.53:226][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-20.59.54:004][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-20.59.54:038][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.00.24:257][147]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.00.42:093][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.00.53:452][445]Cmd: MODE GRID=0
+[2019.01.14-21.00.53:925][497]Cmd: MODE GRID=1
+[2019.01.14-21.01.01:458][357]Cmd: MODE GRID=0
+[2019.01.14-21.01.01:777][392]Cmd: MODE GRID=1
+[2019.01.14-21.01.02:199][441]Cmd: MODE GRID=0
+[2019.01.14-21.01.02:786][508]Cmd: MODE GRID=1
+[2019.01.14-21.01.04:158][665]Cmd: MODE GRID=0
+[2019.01.14-21.01.05:727][845]Cmd: MODE GRID=1
+[2019.01.14-21.01.27:552][438]Cmd: MODE GRID=0
+[2019.01.14-21.01.27:985][468]Cmd: MODE GRID=1
+[2019.01.14-21.02.03:207][418]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Untitled_1_Auto231E263634B9E81C7854763BFB93ED28E.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2019.01.14-21.02.03:211][418]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.064
+[2019.01.14-21.02.03:211][418]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2019.01.14-21.03.02:180][372]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.02:180][372]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.02:191][372]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_4.BrushComponent0) Component already registered.
+[2019.01.14-21.03.02:191][372]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.03.02:375][388]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.02:375][388]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.02:384][388]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.02:521][399]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.02:521][399]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.02:534][399]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.02:534][399]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_4.BrushComponent0) Component already registered.
+[2019.01.14-21.03.02:673][410]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.02:673][410]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.02:840][423]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.02:840][423]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.03:097][449]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.03:097][449]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.03:112][449]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.03:438][484]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.03:438][484]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.03:738][515]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.03:738][515]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.26:646][198]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.26:646][198]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.26:652][198]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.26:869][219]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.26:869][219]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.26:880][219]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.27:115][241]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.27:115][241]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.27:125][241]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.27:371][264]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.27:372][264]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.27:386][264]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.27:668][294]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.27:668][294]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.42:877][ 53]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.42:877][ 53]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.43:072][ 70]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.43:072][ 70]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.43:239][ 82]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.43:239][ 82]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.03.43:412][ 98]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.43:412][ 98]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.43:424][ 98]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.03.43:729][130]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.43:729][130]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.43:959][153]Cmd: TRANSACTION UNDO
+[2019.01.14-21.03.43:959][153]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.03.48:170][629]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-21.03.50:142][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-21.03.51:290][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-21.03.54:476][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.03.55:343][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-21.03.57:205][675]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-21.05.07:391][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.05.59:832][261]Cmd: TRANSACTION UNDO
+[2019.01.14-21.05.59:832][261]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.06.01:226][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.06.54:629][767]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.07.08:870][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.07.10:639][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.07.14:010][ 20]LogEditorViewport: Clicking Background
+[2019.01.14-21.07.15:600][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.07.24:203][211]Cmd: TRANSACTION UNDO
+[2019.01.14-21.07.24:203][211]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.07.24:212][211]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_2.BrushComponent0) Component already registered.
+[2019.01.14-21.07.35:257][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.07.39:430][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.07.54:169][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.08.21:806][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.08.33:056][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.09.01:042][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.09.04:033][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.09.06:783][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.09.27:561][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.10.04:288][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.10.16:178][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.11.01:625][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.11.19:605][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.12.06:150][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.12.08:482][507]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.14-21.12.41:914][102]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.14-21.12.44:361][391]Cmd: TRANSACTION UNDO
+[2019.01.14-21.12.44:361][391]LogEditorTransaction: Undo Brush Subtract
+[2019.01.14-21.12.46:406][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.13.12:648][751]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.14-21.13.16:584][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.13.16:759][190]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Untitled_1_Auto3CB91076B4C07C184FDB7C681B5C3BB29.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.01.14-21.13.16:763][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.147
+[2019.01.14-21.13.16:763][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2019.01.14-21.13.19:311][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.13.48:083][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.14.42:009][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.15.15:443][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.15.38:983][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.15.39:607][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.15.39:967][185]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.15.41:056][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.15.53:215][742]Cmd: TRANSACTION UNDO
+[2019.01.14-21.15.53:215][742]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.15.54:745][916]Cmd: TRANSACTION UNDO
+[2019.01.14-21.15.54:745][916]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.15.54:773][916]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_47.BrushComponent0) Component already registered.
+[2019.01.14-21.16.04:778][ 52]Cmd: TRANSACTION UNDO
+[2019.01.14-21.16.04:778][ 52]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.16.05:528][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.16.06:096][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.16.07:707][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.16.10:853][720]Cmd: TRANSACTION UNDO
+[2019.01.14-21.16.10:853][720]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.16.10:872][720]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_43.BrushComponent0) Component already registered.
+[2019.01.14-21.16.14:550][117]Cmd: TRANSACTION UNDO
+[2019.01.14-21.16.14:550][117]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.16.14:570][117]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_43.BrushComponent0) Component already registered.
+[2019.01.14-21.16.25:646][398]Cmd: TRANSACTION UNDO
+[2019.01.14-21.16.25:646][398]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.16.25:665][398]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_43.BrushComponent0) Component already registered.
+[2019.01.14-21.16.26:008][433]Cmd: TRANSACTION UNDO
+[2019.01.14-21.16.26:008][433]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.16.26:026][433]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_5.BrushComponent0) Component already registered.
+[2019.01.14-21.16.26:026][433]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.16.26:028][433]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_1.BrushComponent0) Component already registered.
+[2019.01.14-21.16.26:029][433]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Brush_ST_12.BrushComponent0) Component already registered.
+[2019.01.14-21.16.32:359][147]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.16.33:051][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.16.34:831][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.16.36:864][664]Cmd: DELETE
+[2019.01.14-21.16.36:864][664]Cmd: ACTOR DELETE
+[2019.01.14-21.16.36:872][664]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-21.16.36:905][664]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.01.14-21.16.38:330][833]Cmd: DELETE
+[2019.01.14-21.16.38:331][833]Cmd: ACTOR DELETE
+[2019.01.14-21.16.38:337][833]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-21.16.38:368][833]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.01.14-21.16.39:787][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.16.41:469][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.17.08:244][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.17.32:384][209]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.17.33:349][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.17.43:295][488]Cmd: TRANSACTION UNDO
+[2019.01.14-21.17.43:295][488]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.17.59:814][407]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.18.06:315][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.18.12:233][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.18.19:704][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.19.03:870][867]Cmd: EDCALLBACK SURFPROPS
+[2019.01.14-21.19.49:701][188]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.20.23:139][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.20.30:665][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.20.46:078][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.20.48:235][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.20.56:363][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.21.53:538][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.21.54:563][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.22.26:868][471]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.14-21.22.27:226][471]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Yuqi_WBStreet_0114A4C54962498807F42BA63A8AA765CB75.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/Yuqi_WBStreet_0114.umap'
+[2019.01.14-21.22.27:254][471]LogFileHelpers: Saving map 'Yuqi_WBStreet_0114' took 0.381
+[2019.01.14-21.22.46:220][995]LogAIModule: Creating AISystem for world Yuqi_WBStreet_0115
+[2019.01.14-21.22.56:480][686]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.14-21.24.35:321][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.27.09:816][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.27.17:460][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.27.33:891][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.27.38:964][437]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.38:964][437]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.27.39:511][494]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.39:511][494]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.27.39:929][532]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.39:929][532]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.27.40:332][571]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.40:332][571]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.27.40:706][610]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.40:706][610]LogEditorTransaction: Undo Edit Z
+[2019.01.14-21.27.41:137][648]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.41:137][648]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.27.41:589][695]Cmd: TRANSACTION UNDO
+[2019.01.14-21.27.41:589][695]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.27.41:616][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street2_65.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:617][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_22.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:618][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_9.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:619][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:619][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_24.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:619][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_23.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:619][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_36.BrushComponent0) Component already registered.
+[2019.01.14-21.27.41:620][695]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_34.BrushComponent0) Component already registered.
+[2019.01.14-21.28.00:143][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.29.15:604][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.29.38:030][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.29.40:245][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.30.14:262][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.30.15:333][474]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.14-21.30.19:596][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.30.21:856][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.30.28:226][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.30.31:870][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.30.53:523][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.31.42:527][596]Cmd: TRANSACTION UNDO
+[2019.01.14-21.31.42:527][596]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.31.42:551][596]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_38.BrushComponent0) Component already registered.
+[2019.01.14-21.31.42:551][596]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_34.BrushComponent0) Component already registered.
+[2019.01.14-21.32.15:564][450]Cmd: DELETE
+[2019.01.14-21.32.15:564][450]Cmd: ACTOR DELETE
+[2019.01.14-21.32.15:570][450]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-21.32.15:609][450]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.01.14-21.32.26:388][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.32.40:226][563]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.14-21.32.43:096][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.32.57:573][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.33.27:068][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.33.31:305][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.33.40:339][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.34.00:266][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.34.22:737][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.34.23:408][665]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.34.24:640][803]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.24:640][803]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.34.24:864][828]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.24:864][828]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.34.25:056][844]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.25:056][844]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.34.25:638][909]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.25:638][909]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.34.25:671][909]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_36.BrushComponent0) Component already registered.
+[2019.01.14-21.34.36:553][147]Cmd: DELETE
+[2019.01.14-21.34.36:553][147]Cmd: ACTOR DELETE
+[2019.01.14-21.34.36:561][147]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-21.34.36:602][147]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.01.14-21.34.43:279][908]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.43:279][908]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.34.43:301][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street4.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:301][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street3_67.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:302][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_24.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:303][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_26.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:303][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_2.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:305][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_11.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:305][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_28.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:305][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_35.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:306][908]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_37.BrushComponent0) Component already registered.
+[2019.01.14-21.34.43:509][925]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.43:509][925]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.34.44:074][987]Cmd: TRANSACTION UNDO
+[2019.01.14-21.34.44:074][987]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.34.44:103][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_47.BrushComponent0) Component already registered.
+[2019.01.14-21.34.44:103][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_51.BrushComponent0) Component already registered.
+[2019.01.14-21.34.44:104][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_2.BrushComponent0) Component already registered.
+[2019.01.14-21.34.53:594][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.34.57:509][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.34.59:441][655]Cmd: POLY SELECT ADJACENT ALL
+[2019.01.14-21.35.01:229][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.35.02:773][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.35.06:005][326]Cmd: TRANSACTION UNDO
+[2019.01.14-21.35.06:006][326]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.35.06:028][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_47.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:028][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_25.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:028][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_24.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.01.14-21.35.06:031][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1817.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1818.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:032][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1819.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1820.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.01.14-21.35.06:033][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1821.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1822.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 23
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 24
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 25
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 26
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 27
+[2019.01.14-21.35.06:034][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 28
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823, Buffer: 0, Buffer Size: 0, Element: 29
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1823.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824' invalid (1618 verts, 0 indices).
+[2019.01.14-21.35.06:035][326]LogPhysics: Warning: Attempt to build physics data for /Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.ModelComponent_1824.BodySetup_0 when we are unable to.
+[2019.01.14-21.35.06:036][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_8.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:036][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:036][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_32.BrushComponent0) Component already registered.
+[2019.01.14-21.35.06:037][326]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.14-21.35.11:634][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.35.13:299][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.35.17:027][535]Cmd: POLY SELECT ADJACENT ALL
+[2019.01.14-21.35.23:949][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.35.25:035][405]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.01.14-21.35.26:705][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.35.32:834][273]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.35.38:454][937]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.35.38:980][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.35.45:087][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.36.10:314][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.36.24:597][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.36.26:861][498]Cmd: POLY SELECT ADJACENT ALL
+[2019.01.14-21.36.28:322][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.36.31:681][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.36.44:068][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.36.48:287][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.36.49:250][949]Cmd: POLY SELECT ADJACENT ALL
+[2019.01.14-21.36.50:645][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.36.52:639][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.36.54:460][476]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.36.54:879][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.36.55:189][557]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.36.55:276][564]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2019.01.14-21.37.02:654][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.37.07:164][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.37.07:818][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.37.08:088][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.37.08:940][116]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.37.19:447][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.37.44:832][293]Cmd: TRANSACTION UNDO
+[2019.01.14-21.37.44:832][293]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.37.44:853][293]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_45.BrushComponent0) Component already registered.
+[2019.01.14-21.37.44:857][293]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_27.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:935][742]Cmd: TRANSACTION UNDO
+[2019.01.14-21.37.48:935][742]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.37.48:958][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street4.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:959][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_20.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:960][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_51.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:960][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_25.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:964][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_45.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:964][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:964][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_10.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:965][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_32.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:965][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.14-21.37.48:965][742]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_39.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:825][546]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.04:825][546]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.04:848][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_20.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:849][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:850][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_28.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:852][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_12.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:853][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_8.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:853][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:853][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:853][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_32.BrushComponent0) Component already registered.
+[2019.01.14-21.38.04:854][546]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.BoxBrush_cut.BrushComponent0) Component already registered.
+[2019.01.14-21.38.05:349][600]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.05:349][600]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.05:377][600]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_18.BrushComponent0) Component already registered.
+[2019.01.14-21.38.05:381][600]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_45.BrushComponent0) Component already registered.
+[2019.01.14-21.38.05:382][600]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.38.05:382][600]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_36.BrushComponent0) Component already registered.
+[2019.01.14-21.38.05:383][600]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.BoxBrush_cut2.BrushComponent0) Component already registered.
+[2019.01.14-21.38.23:873][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.38.26:394][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.38.35:401][ 71]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.35:401][ 71]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.35:423][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_20.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:424][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_21.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:424][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:424][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:426][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:427][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:427][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_101.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:427][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:427][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:427][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_40.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:428][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_41.BrushComponent0) Component already registered.
+[2019.01.14-21.38.35:428][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_29.BrushComponent0) Component already registered.
+[2019.01.14-21.38.41:761][778]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.41:761][778]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.41:790][778]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.41:790][778]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.41:791][778]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_35.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:126][811]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.42:126][811]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.42:156][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street3_67.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:158][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:158][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:160][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_47.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:161][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_10.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:162][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:162][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_36.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:520][846]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.42:520][846]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.42:551][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_19.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:553][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_28.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:553][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_23.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:554][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:556][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:556][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_10.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:557][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:557][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_33.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:557][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:557][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_42.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:558][846]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_40.BrushComponent0) Component already registered.
+[2019.01.14-21.38.42:897][880]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.42:897][880]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.38.48:654][526]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.48:654][526]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.48:678][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_18.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:679][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:680][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_28.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:681][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_23.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:681][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_5.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:685][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:686][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_34.BrushComponent0) Component already registered.
+[2019.01.14-21.38.48:686][526]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_42.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:240][584]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.49:240][584]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.38.49:543][614]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.49:543][614]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.38.49:715][629]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.49:715][629]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-21.38.49:896][648]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.49:896][648]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.49:925][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_51.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:926][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_43.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:927][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_20.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:927][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street3_67.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:928][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street4.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:928][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:931][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_10.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:931][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:931][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_7.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:932][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:933][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_115.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:933][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_40.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:934][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_27.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:934][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_23.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:935][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_34.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:935][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_30.BrushComponent0) Component already registered.
+[2019.01.14-21.38.49:935][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_31.BrushComponent0) Component already registered.
+[2019.01.14-21.38.50:067][657]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.50:067][657]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-21.38.53:342][ 29]Cmd: TRANSACTION UNDO
+[2019.01.14-21.38.53:342][ 29]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.38.53:366][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_20.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:367][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:367][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_28.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:371][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_12.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:372][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_8.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:372][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_6.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:373][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:373][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_32.BrushComponent0) Component already registered.
+[2019.01.14-21.38.53:374][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.BoxBrush_cut.BrushComponent0) Component already registered.
+[2019.01.14-21.38.56:029][322]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.38.57:356][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.39.02:952][119]Cmd: TRANSACTION UNDO
+[2019.01.14-21.39.02:952][119]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.39.02:976][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_21.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:976][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_51.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:980][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_43.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:980][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_37.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:981][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_33.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:981][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_31.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:981][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_42.BrushComponent0) Component already registered.
+[2019.01.14-21.39.02:981][119]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.BoxBrush_cut.BrushComponent0) Component already registered.
+[2019.01.14-21.39.11:751][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.39.16:238][636]Cmd: TRANSACTION UNDO
+[2019.01.14-21.39.16:238][636]LogEditorTransaction: Undo Move Actors
+[2019.01.14-21.39.16:263][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush_street3_67.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:263][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_29.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:264][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_3.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:266][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_47.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:267][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_9.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:267][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:267][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_33.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:267][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.14-21.39.16:267][636]LogActorComponent: ~FComponentReregisterContext: (/Game/Yuqi_WBStreet_0114.Yuqi_WBStreet_0114:PersistentLevel.Brush_ST_42.BrushComponent0) Component already registered.
+[2019.01.14-21.39.24:137][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.39.47:182][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.39.48:250][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.40.32:197][557]LogEditorViewport: Clicking Background
+[2019.01.14-21.40.41:278][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.40.42:822][734]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.40.52:731][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.40.56:744][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.41.11:166][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.42.32:742][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.42.32:978][381]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Yuqi_WBStreet_0114_Auto40A6EF02941D64B6DB2E15980948ED908.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Game/Yuqi_WBStreet_0114_Auto4.umap'
+[2019.01.14-21.42.32:981][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Yuqi_WBStreet_0114' took 0.210
+[2019.01.14-21.42.32:981][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2019.01.14-21.42.32:983][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Yuqi_WBStreet_0114_BuiltData] ([1] browsable assets)...
+[2019.01.14-21.42.32:984][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yuqi_WBStreet_0114_BuiltData]
+[2019.01.14-21.42.33:001][381]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Yuqi_WBStreet_0114_BuiltData_Aut25A2118C49DCD1C233568CAADE1F0E13.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Game/Yuqi_WBStreet_0114_BuiltData_Auto4.uasset'
+[2019.01.14-21.42.33:002][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MI_WBoxSwalk_Yuqi] ([1] browsable assets)...
+[2019.01.14-21.42.33:022][381]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MI_WBoxSwalk_Yuqi.MI_WBoxSwalk_Yuqi]
+[2019.01.14-21.42.33:022][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/MI_WBoxSwalk_Yuqi]
+[2019.01.14-21.42.33:037][381]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/MI_WBoxSwalk_Yuqi_Auto4A5B1B59E4E738CB3015B19A0EE0A606D.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Autosaves/Game/MI_WBoxSwalk_Yuqi_Auto4.uasset'
+[2019.01.14-21.42.33:038][381]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.01.14-21.45.15:023][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-21.45.21:869][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.45.26:232][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.45.30:011][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.45.30:280][ 75]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Yuqi_WBStreet_01145CAD73504415DB1A44C567B52727A416.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/Yuqi_WBStreet_0114.umap'
+[2019.01.14-21.45.30:311][ 75]LogFileHelpers: Saving map 'Yuqi_WBStreet_0114' took 0.295
+[2019.01.14-21.45.30:331][ 75]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/Yuqi_WBStreet_0114_BuiltDataCA9675194CEFEDE37A91088FA9D4D7E3.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/Yuqi_WBStreet_0114_BuiltData.uasset'
+[2019.01.14-21.45.30:343][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_WBoxSwalk_Yuqi" FILE="../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/MI_WBoxSwalk_Yuqi.uasset" SILENT=true
+[2019.01.14-21.45.30:351][ 75]LogSavePackage: Moving '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Saved/MI_WBoxSwalk_Yuqi08A50A1F472E29AEC20D009C3C542AC7.tmp' to '../../../../../../Users/u1128431/Documents/GitHub/YS_AssetPipeline/WBinclass0114/Content/MI_WBoxSwalk_Yuqi.uasset'
+[2019.01.14-21.45.40:773][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
